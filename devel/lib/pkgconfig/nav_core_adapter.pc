@@ -1,0 +1,8 @@
+prefix=/home/nic/catkin_wp/devel
+
+Name: nav_core_adapter
+Description: Description of nav_core_adapter
+Version: 0.0.0
+Cflags: -I/home/nic/catkin_wp/src/robot_navigation/nav_core_adapter/include
+Libs: -L/home/nic/catkin_wp/devel/lib -llocal_planner_adapter -lglobal_planner_adapter -lglobal_planner_adapter2
+Requires: dwb_msgs geometry_msgs nav_2d_msgs nav_2d_utils nav_core nav_core2 nav_msgs pluginlib tf visualization_msgs

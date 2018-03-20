@@ -1,0 +1,8 @@
+prefix=/home/nic/catkin_wp/devel
+
+Name: robotino_safety
+Description: Description of robotino_safety
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/nic/catkin_wp/devel/lib 
+Requires: geometry_msgs laser_geometry sensor_msgs std_msgs tf visualization_msgs

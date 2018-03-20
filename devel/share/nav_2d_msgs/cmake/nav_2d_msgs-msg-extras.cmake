@@ -1,0 +1,2 @@
+set(nav_2d_msgs_MESSAGE_FILES "/home/nic/catkin_wp/src/robot_navigation/nav_2d_msgs/msg/Path2D.msg;/home/nic/catkin_wp/src/robot_navigation/nav_2d_msgs/msg/Pose2D32.msg;/home/nic/catkin_wp/src/robot_navigation/nav_2d_msgs/msg/Pose2DStamped.msg;/home/nic/catkin_wp/src/robot_navigation/nav_2d_msgs/msg/Twist2D.msg;/home/nic/catkin_wp/src/robot_navigation/nav_2d_msgs/msg/Twist2D32.msg;/home/nic/catkin_wp/src/robot_navigation/nav_2d_msgs/msg/Twist2DStamped.msg")
+set(nav_2d_msgs_SERVICE_FILES "")

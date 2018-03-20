@@ -1,0 +1,2 @@
+set(move_base_msgs_MESSAGE_FILES "/home/nic/catkin_wp/devel/share/move_base_msgs/msg/MoveBaseAction.msg;/home/nic/catkin_wp/devel/share/move_base_msgs/msg/MoveBaseActionGoal.msg;/home/nic/catkin_wp/devel/share/move_base_msgs/msg/MoveBaseActionResult.msg;/home/nic/catkin_wp/devel/share/move_base_msgs/msg/MoveBaseActionFeedback.msg;/home/nic/catkin_wp/devel/share/move_base_msgs/msg/MoveBaseGoal.msg;/home/nic/catkin_wp/devel/share/move_base_msgs/msg/MoveBaseResult.msg;/home/nic/catkin_wp/devel/share/move_base_msgs/msg/MoveBaseFeedback.msg")
+set(move_base_msgs_SERVICE_FILES "")

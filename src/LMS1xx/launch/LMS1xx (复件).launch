@@ -1,0 +1,7 @@
+<launch>
+  <arg name="host" default="169.254.245.104" />
+  <node pkg="lms1xx" name="lms1xx" type="LMS1xx_node">
+    <param name="host" value="$(arg host)" />
+    <param name="port" type="string" value="2111"  />
+  </node>
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/nic/catkin_wp/devel
+
+Name: move_base_flex
+Description: Description of move_base_flex
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/nic/catkin_wp/devel/lib 
+Requires: mbf_abstract_core mbf_abstract_nav mbf_costmap_core mbf_costmap_nav mbf_msgs mbf_simple_nav

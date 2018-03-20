@@ -1,0 +1,8 @@
+prefix=/home/nic/catkin_wp/devel
+
+Name: fake_localization
+Description: Description of fake_localization
+Version: 1.12.13
+Cflags: 
+Libs: -L/home/nic/catkin_wp/devel/lib 
+Requires: roscpp rospy

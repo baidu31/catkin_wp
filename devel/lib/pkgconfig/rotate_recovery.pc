@@ -1,0 +1,8 @@
+prefix=/home/nic/catkin_wp/devel
+
+Name: rotate_recovery
+Description: Description of rotate_recovery
+Version: 1.12.13
+Cflags: -I/home/nic/catkin_wp/src/navigation/rotate_recovery/include
+Libs: -L/home/nic/catkin_wp/devel/lib -lrotate_recovery
+Requires: roscpp pluginlib

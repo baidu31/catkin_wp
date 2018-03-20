@@ -1,0 +1,8 @@
+prefix=/home/nic/catkin_wp/devel
+
+Name: youbot_gazebo_worlds
+Description: Description of youbot_gazebo_worlds
+Version: 0.8.0
+Cflags: 
+Libs: -L/home/nic/catkin_wp/devel/lib 
+Requires: 

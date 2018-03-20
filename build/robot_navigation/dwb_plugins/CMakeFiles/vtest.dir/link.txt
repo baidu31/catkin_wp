@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/vtest.dir/test/velocity_iterator_test.cpp.o  -o /home/nic/catkin_wp/devel/lib/dwb_plugins/vtest  -L/home/nic/catkin_wp/build/gtest -rdynamic ../../gtest/libgtest.so -lpthread -Wl,-rpath,/home/nic/catkin_wp/build/gtest 

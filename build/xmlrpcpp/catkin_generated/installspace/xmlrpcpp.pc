@@ -1,0 +1,8 @@
+prefix=/home/nic/catkin_wp/install
+
+Name: xmlrpcpp
+Description: Description of xmlrpcpp
+Version: 1.11.21
+Cflags: -I/home/nic/catkin_wp/install/include
+Libs: -L/home/nic/catkin_wp/install/lib -lxmlrpcpp
+Requires: cpp_common

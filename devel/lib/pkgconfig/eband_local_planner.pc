@@ -1,0 +1,8 @@
+prefix=/home/nic/catkin_wp/devel
+
+Name: eband_local_planner
+Description: Description of eband_local_planner
+Version: 0.3.1
+Cflags: -I/home/nic/catkin_wp/devel/include -I/home/nic/catkin_wp/src/eband_local_planner/include
+Libs: -L/home/nic/catkin_wp/devel/lib -leband_local_planner
+Requires: base_local_planner control_toolbox costmap_2d geometry_msgs nav_core nav_msgs pluginlib roscpp tf tf_conversions dynamic_reconfigure

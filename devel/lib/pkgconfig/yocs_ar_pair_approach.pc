@@ -1,0 +1,8 @@
+prefix=/home/nic/catkin_wp/devel
+
+Name: yocs_ar_pair_approach
+Description: Description of yocs_ar_pair_approach
+Version: 0.11.0
+Cflags: 
+Libs: -L/home/nic/catkin_wp/devel/lib 
+Requires: 

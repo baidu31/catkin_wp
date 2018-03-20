@@ -1,0 +1,8 @@
+prefix=/home/nic/catkin_wp/devel
+
+Name: mbf_abstract_core
+Description: Description of mbf_abstract_core
+Version: 0.1.0
+Cflags: -I/home/nic/catkin_wp/src/move_base_flex/mbf_abstract_core/include
+Libs: -L/home/nic/catkin_wp/devel/lib 
+Requires: std_msgs geometry_msgs tf

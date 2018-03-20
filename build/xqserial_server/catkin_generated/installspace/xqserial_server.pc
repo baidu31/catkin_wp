@@ -1,0 +1,8 @@
+prefix=/home/nic/catkin_wp/install
+
+Name: xqserial_server
+Description: Description of xqserial_server
+Version: 1.0.1
+Cflags: -I/home/nic/catkin_wp/install/include
+Libs: -L/home/nic/catkin_wp/install/lib 
+Requires: nav_msgs roscpp rospy sensor_msgs std_msgs geometry_msgs

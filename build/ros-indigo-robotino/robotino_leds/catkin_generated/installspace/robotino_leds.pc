@@ -1,0 +1,8 @@
+prefix=/home/nic/catkin_wp/install
+
+Name: robotino_leds
+Description: Description of robotino_leds
+Version: 0.0.0
+Cflags: -I/home/nic/catkin_wp/install/include
+Libs: -L/home/nic/catkin_wp/install/lib 
+Requires: 

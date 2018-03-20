@@ -1,0 +1,8 @@
+prefix=/home/nic/catkin_wp/devel
+
+Name: costmap_queue
+Description: Description of costmap_queue
+Version: 0.0.0
+Cflags: -I/home/nic/catkin_wp/src/robot_navigation/costmap_queue/include
+Libs: -L/home/nic/catkin_wp/devel/lib -lcostmap_queue
+Requires: costmap_2d roscpp

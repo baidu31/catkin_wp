@@ -1,0 +1,8 @@
+prefix=/home/nic/catkin_wp/devel
+
+Name: yocs_localization_manager
+Description: Description of yocs_localization_manager
+Version: 0.11.0
+Cflags: 
+Libs: -L/home/nic/catkin_wp/devel/lib 
+Requires: 

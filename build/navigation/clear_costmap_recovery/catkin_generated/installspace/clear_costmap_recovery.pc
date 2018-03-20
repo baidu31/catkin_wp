@@ -1,0 +1,8 @@
+prefix=/home/nic/catkin_wp/install
+
+Name: clear_costmap_recovery
+Description: Description of clear_costmap_recovery
+Version: 1.12.13
+Cflags: -I/home/nic/catkin_wp/install/include
+Libs: -L/home/nic/catkin_wp/install/lib -lclear_costmap_recovery
+Requires: costmap_2d nav_core pluginlib roscpp tf

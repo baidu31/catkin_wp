@@ -1,0 +1,8 @@
+prefix=/home/nic/catkin_wp/install
+
+Name: yocs_keyop
+Description: Description of yocs_keyop
+Version: 0.11.0
+Cflags: 
+Libs: -L/home/nic/catkin_wp/install/lib 
+Requires: 

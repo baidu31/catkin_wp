@@ -1,0 +1,8 @@
+prefix=/home/nic/catkin_wp/install
+
+Name: nav_core2
+Description: Description of nav_core2
+Version: 0.0.0
+Cflags: -I/home/nic/catkin_wp/install/include
+Libs: -L/home/nic/catkin_wp/install/lib 
+Requires: costmap_2d nav_2d_msgs tf

@@ -1,0 +1,8 @@
+prefix=/home/nic/catkin_wp/install
+
+Name: dwb_critics
+Description: Description of dwb_critics
+Version: 0.0.0
+Cflags: -I/home/nic/catkin_wp/install/include
+Libs: -L/home/nic/catkin_wp/install/lib -ldwb_critics
+Requires: angles costmap_2d costmap_queue dwb_local_planner geometry_msgs nav_2d_msgs nav_2d_utils nav_core2 pluginlib roscpp sensor_msgs

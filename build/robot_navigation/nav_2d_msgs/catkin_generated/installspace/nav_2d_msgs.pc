@@ -1,0 +1,8 @@
+prefix=/home/nic/catkin_wp/install
+
+Name: nav_2d_msgs
+Description: Description of nav_2d_msgs
+Version: 0.0.0
+Cflags: -I/home/nic/catkin_wp/install/include
+Libs: -L/home/nic/catkin_wp/install/lib 
+Requires: geometry_msgs message_runtime std_msgs

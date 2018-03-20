@@ -1,0 +1,8 @@
+prefix=/home/nic/catkin_wp/devel
+
+Name: yocs_math_toolkit
+Description: Description of yocs_math_toolkit
+Version: 0.11.0
+Cflags: -I/home/nic/catkin_wp/src/yujin_ocs/yocs_math_toolkit/include
+Libs: -L/home/nic/catkin_wp/devel/lib -lyocs_math_toolkit
+Requires: ecl_build ecl_config ecl_exceptions ecl_formatters ecl_linear_algebra geometry_msgs roscpp tf

@@ -1,0 +1,8 @@
+prefix=/home/nic/catkin_wp/install
+
+Name: ira_laser_tools
+Description: Description of ira_laser_tools
+Version: 1.0.0
+Cflags: -I/home/nic/catkin_wp/install/include
+Libs: -L/home/nic/catkin_wp/install/lib 
+Requires: 

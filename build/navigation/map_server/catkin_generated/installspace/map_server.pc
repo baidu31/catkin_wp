@@ -1,0 +1,8 @@
+prefix=/home/nic/catkin_wp/install
+
+Name: map_server
+Description: Description of map_server
+Version: 1.12.13
+Cflags: -I/home/nic/catkin_wp/install/include
+Libs: -L/home/nic/catkin_wp/install/lib -limage_loader
+Requires: roscpp tf nav_msgs

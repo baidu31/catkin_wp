@@ -1,0 +1,8 @@
+prefix=/home/nic/catkin_wp/devel
+
+Name: mbf_utility
+Description: Description of mbf_utility
+Version: 0.0.1
+Cflags: -I/home/nic/catkin_wp/src/move_base_flex/mbf_utility/include
+Libs: -L/home/nic/catkin_wp/devel/lib -lmbf_utility
+Requires: geometry_msgs roscpp

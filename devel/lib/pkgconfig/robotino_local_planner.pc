@@ -1,0 +1,8 @@
+prefix=/home/nic/catkin_wp/devel
+
+Name: robotino_local_planner
+Description: Description of robotino_local_planner
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/nic/catkin_wp/devel/lib 
+Requires: 
